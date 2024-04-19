@@ -1,6 +1,6 @@
 [workspace]
 members = [
-    "programs/*"
+    "programs/mint_machine"
 ]
 resolver = "2"
 

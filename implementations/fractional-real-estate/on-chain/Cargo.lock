@@ -1524,7 +1524,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "mint-machine"
+name = "mint_machine"
 version = "0.1.0"
 dependencies = [
  "anchor-lang 0.30.0 (registry+https://github.com/rust-lang/crates.io-index)",
