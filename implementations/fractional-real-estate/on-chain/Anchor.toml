@@ -9,6 +9,11 @@ url = "https://api.apr.dev"
 cluster = "Localnet"
 wallet = "~/.config/solana/id.json"
 
+[workspace]
+members = [
+  "programs/mint_machine"
+]
+
 [programs.localnet]
 mint_machine = "6TxhQdES2UUnXBophnvcAWYV7jRVrrSq9ypyhCZn4q14"
 
